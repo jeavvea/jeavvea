@@ -1,12 +1,12 @@
 ### Hiya 👋
 
-- 🔭 I’m currently working as an SRE, using tools such as Terraform, AWS, Dynatrace, and node.js
-- 👩‍💻 I'm proficient in Java, JavaScript, HTML/CSS, and Terraform
+- 🔭 I’m currently working as a DevOps Engineer, using tools such as Terraform, AWS, Grafana and Python.
+- 👩‍💻 I'm proficient in Java, JavaScript, Python, HTML/CSS, and Terraform.
 - 🌱 I’m currently learning:
-  - [Dynatrace](https://university.dynatrace.com/ "Dynatrace University")
-  - [AWS Developer Associate](https://app.pluralsight.com/paths/certificate/aws-certified-developer-associate "AWS Certified Developer – Associate (DVA-C01)")
-- 💬 Ask me about Spring Boot and ReactJS
-- 📫 How to reach me: [@ElizabethEve00](https://twitter.com/ElizabethEve00)
+  - Kubernetes
+  - AWS DevOps Professional
+- 💬 Ask me about Terraform, AWS Transfer Family, and Streamlit + OpenAI implementations.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eve-brennan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 😄 Pronouns: She/Her
 - 👩‍🍳 Favourite bakes:
   - 🧄 Garlic focaccia
